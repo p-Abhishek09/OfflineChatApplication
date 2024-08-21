@@ -1,1 +1,2 @@
 # OfflineChatApplication
+# An offline chat application is a communication tool designed to operate without an active internet connection. It enables users to send and receive messages within a local network or via direct device-to-device communication. This type of application is particularly useful in scenarios where internet access is unreliable or unavailable, such as in remote areas or during network outages.
